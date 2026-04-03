@@ -1,4 +1,4 @@
-# CommPro — Call Center Dashboard
+# Call Lab LLC — Call Center Dashboard
 
 A premium, full-featured communication platform dashboard built with **Next.js 14** and **Tailwind CSS**.
 
